@@ -1,0 +1,21 @@
+4 hidden:
+fully connected 64 nodos
+brnn:
+	lstm 128 nodos
+	lstm 128 nodos
+lstm 128 nodos
+fully connected 64 nodos
+
+en ese orden
+--------------------
+features importantes
+todas las financieras
+direcciones activas
+exchange volume
+fees
+median fee
+median transaction value
+transaction count
+transaction volume
+ventana de 10 dias
+
