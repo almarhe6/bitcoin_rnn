@@ -1,5 +1,4 @@
 # bitcoin_rnn
-
-Recurrent neural network used to predict bitcoins price minute by minute. To train it you need to download https://www.cryptodatadownload.com/cdd/Binance_BTCUSDT_minute.csv and upload this with src/main.py to kaggle.
+This was a excuse to learn the basics of keras, it doesnt even work, and nobody will never predict a cyptocurrency price by just feeding a rnn with price data.
 
 
